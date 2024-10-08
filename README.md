@@ -40,7 +40,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-plain.svg" height="30" alt="visual basic logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-plain.svg" height="40" alt="visual basic logo" />
   </a>
 
   <a href="https://code.visualstudio.com/">
