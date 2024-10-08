@@ -39,6 +39,9 @@
   <a href="https://docs.oracle.com/javase/8/docs/api/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-plain.svg" height="30" alt="visual basic logo" />
+  </a>
 
   <a href="https://code.visualstudio.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
@@ -104,7 +107,7 @@ Feel free to reach out or follow! 😊
 
 ---
 
-> Love Today, and seize *All Tomorrows*. 🌟
+> Love Today, and seize _All Tomorrows_. 🌟
 
 — C.M. Kösemen
 
