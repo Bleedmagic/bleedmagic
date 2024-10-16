@@ -8,9 +8,9 @@
 
 - ⚡ **Fun fact**: I think white shirt and black pants rock!
 
-- 🎲 **Hobbies**: I enjoy gaming, listening to music, play chess online, and messing with VS Code in my free time.
+- 🎲 **Hobbies**: I enjoy gaming, listening to music, and messing with VS Code in my free time.
 
-- 🎯 **Goals**: I aim to be the most tech-savvy as I can be and contribute to open-source projects.
+- 🎯 **Goals**: I aim to be the most tech-savvy as I can be and contribute to projects.
 
 ## 💻 Languages and Tools 🛠️
 
