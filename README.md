@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻 I am currently working on **Personal Knowledge Management** for my knowledge base and **Credit Cooperative Information an Accounting System** for a capstone project.
 
-- 🌱 I am currently learning **Computer Networking, Machine Learning, AI, Git, Bootstrap, React, Laravel, JQuery**.
+- 🌱 I am currently learning **Computer Networking, Machine Learning, Artificial Intelligence, Git, Bootstrap, React, Laravel, JQuery**.
 
 - ⚡ **Fun fact**: I think white shirt and black pants rock!
 
