@@ -39,7 +39,6 @@
   <a href="https://docs.oracle.com/javase/8/docs/api/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   </a>
-
   <a href="https://code.visualstudio.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   </a>
