@@ -90,7 +90,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Bleedmagic&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="trophies"></img>
+<img src="https://github-profile-trophy.vercel.app/?username=Bleedmagic&theme=dracula&no-frame=false&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" alt="trophies"></img>
 </div>
 
 ---
