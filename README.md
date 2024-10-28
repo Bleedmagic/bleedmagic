@@ -1,6 +1,6 @@
 # Hello 👋, Welcome! I'm Victor (a.k.a. [Bleedmagic][steam])
 
-## 👨‍💻 About Me 📖
+## 👨‍💻 About Me
 
 - 👨🏻‍💻 I am currently working on **Personal Knowledge Management** for my knowledge base and **Credit Cooperative Information an Accounting System** for a capstone project.
 
@@ -12,7 +12,7 @@
 
 - 🎯 **Goals**: I aim to be the most tech-savvy as I can be and contribute to projects.
 
-## 💻 Languages and Tools 🛠️
+## 💻 Languages and Tools
 
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -83,7 +83,7 @@
 </a>
 </div>
 
-## 📊 GitHub Stats 🏆
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bleedmagic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats"  />
