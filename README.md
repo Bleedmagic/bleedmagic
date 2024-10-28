@@ -99,6 +99,10 @@ This is a funny easter egg. LAUGH!
 — C.M. Kösemen
 
 <!--
+The me writing this wants to make a blog, so get to it, future me!
+-->
+
+<!--
 <div align="center">
 👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
 </div>
