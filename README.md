@@ -61,9 +61,6 @@
   <a href="https://www.renpy.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/renpy/renpy-original.svg" height="40" alt="renpy logo" />
   </a>
-  <a href="https://developer.android.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" />
-  </a>
   <a href="https://www.canva.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40" alt="canva"/>
   </a>
@@ -96,13 +93,6 @@
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Bleedmagic&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt=""></img>
 </div>
-
-## 📫 Contact Me 📧
-
-Feel free to reach out or follow! 😊
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bleedmagic87)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bleedmagic87@gmail.com)
 
 ---
 
