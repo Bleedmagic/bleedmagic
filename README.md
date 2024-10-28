@@ -1,10 +1,12 @@
 # Hello 👋, Welcome! I'm Victor (a.k.a. [Bleedmagic][steam])
 
+<!-- # 👀 Hi stranger! 👋🏻 -->
+
 ## 👨‍💻 About Me
 
-- 👨🏻‍💻 I am currently working on Personal Knowledge Management for my knowledge base and Credit Cooperative Information and Accounting System for a capstone project.
+- 👨🏻‍💻 I am currently working on **Personal Knowledge Management** for my knowledge base and **Credit Cooperative Information and Accounting System** for a capstone project.
 
-- 🌱 I am currently learning Computer Networking, ML, AI, Bootstrap, React, Laravel, Node.js.
+- 🌱 I am currently learning _Computer Networking_, _Machine Leaning_, _AI_, _Bootstrap_, _React_, _Laravel_, _Node.js_.
 
 - ⚡ **Fun fact**: I think white shirt and black pants rock!
 
@@ -92,8 +94,6 @@
 
 ---
 
-> Love Today, and seize _All Tomorrows_. 🌟
-
-— C.M. Kösemen
+👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
 
 [steam]: https://steamcommunity.com/profiles/76561198444268546
