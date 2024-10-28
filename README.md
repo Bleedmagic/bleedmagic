@@ -35,12 +35,6 @@
   <a href="https://docs.python.org/3/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   </a>
-  <a href="https://en.cppreference.com/w/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  </a>
-  <a href="https://docs.oracle.com/javase/8/docs/api/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  </a>
   <a href="https://code.visualstudio.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   </a>
@@ -98,8 +92,14 @@ This is a funny easter egg. LAUGH!
 
 ---
 
+> Love Today, and seize _All Tomorrows_. 🌟
+
+— C.M. Kösemen
+
+<!--
 <div align="center">
 👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
 </div>
+-->
 
 [steam]: https://steamcommunity.com/profiles/76561198444268546
