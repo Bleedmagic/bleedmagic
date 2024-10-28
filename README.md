@@ -98,6 +98,8 @@ This is a funny easter egg. LAUGH!
 
 ---
 
+<div align="center">
 👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
+</div>
 
 [steam]: https://steamcommunity.com/profiles/76561198444268546
