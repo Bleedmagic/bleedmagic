@@ -98,7 +98,7 @@ This is a funny easter egg. LAUGH!
 
 ---
 
-> Love Today, and seize _All Tomorrows_. 🌟
+> Love Today, and seize _All Tomorrows_. ✨
 
 — C.M. Kösemen
 
