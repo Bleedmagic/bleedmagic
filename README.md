@@ -1,6 +1,8 @@
 # Hello 👋, Welcome! I'm Victor (a.k.a. [Bleedmagic][steam])
 
-<!-- # 👀 Hi stranger! 👋🏻 -->
+[steam]: https://steamcommunity.com/profiles/76561198444268546
+
+<!-- # 👀 Hi, stranger! 👋🏻 -->
 
 ## 👨‍💻 About Me
 
@@ -101,5 +103,3 @@ This is a funny easter egg. LAUGH!
 👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
 </div>
 -->
-
-[steam]: https://steamcommunity.com/profiles/76561198444268546
