@@ -81,6 +81,9 @@
 <a href="https://www.audacityteam.org/">
   <img src="https://img.shields.io/badge/Audacity-0024da?style=for-the-badge&logo=Audacity" alt="Audacity Badge">
 </a>
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub" alt="GitHub Badge">
+</a>
 </div>
 
 ## 📊 GitHub Stats
@@ -91,7 +94,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Bleedmagic&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt=""></img>
+<img src="https://github-profile-trophy.vercel.app/?username=Bleedmagic&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="trophies"></img>
 </div>
 
 ---
