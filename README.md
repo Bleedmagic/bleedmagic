@@ -8,7 +8,7 @@
 
 - 👨🏻‍💻 I am currently working on **Personal Knowledge Management** for my knowledge base and **Credit Cooperative Information and Accounting System** for a capstone project.
 
-- 🌱 I am currently learning _Computer Networking_, _Machine Leaning_, _AI_, _Bootstrap_, _React_, _Laravel_, _Node.js_.
+- 📂 **Portfolio Website**: [bleedmagic.github.io](https://bleedmagic.github.io/)
 
 - ⚡ **Fun fact**: I think white shirt and black pants rock!
 
