@@ -57,10 +57,6 @@
 
 <br>
 
-<!--
-This is a funny easter egg. LAUGH! HAHA!
--->
-
 <div align="center">
     <a href="https://www.aseprite.org/">
         <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=" alt="Aseprite" />
