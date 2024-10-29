@@ -3,7 +3,7 @@
 [steam]: https://steamcommunity.com/profiles/76561198444268546
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=225&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=125&lines=I+write+code%2C+perhaps+tragedies.;Running+on+a+potato+machine~;Printing+less+than+threes+since+forever!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=2px&duration=3000&pause=225&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=95&lines=I+write+code%2C+perhaps+tragedies.;Running+on+a+potato+machine~;Printing+less+than+threes+since+forever!" alt="Typing SVG" /></a>
 </p>
 
 <!-- # 👀 Hi, stranger! 👋🏻 -->
