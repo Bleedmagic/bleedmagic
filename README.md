@@ -1,4 +1,4 @@
-# Hello 👋, Welcome! I'm Victor (a.k.a. [Bleedmagic][steam])
+# Hello 👋, Welcome! I'm Victor ([Bleedmagic][steam])
 
 [steam]: https://steamcommunity.com/profiles/76561198444268546
 
