@@ -47,10 +47,10 @@
     <a href="https://getbootstrap.com/docs/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
     </a>
-    <a href="https://vuejs.org/v2/guide/">
+    <a href="https://vuejs.org/guide/introduction.html">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue logo" />
     </a>
-    <a href="https://reactjs.org/docs/getting-started.html">
+    <a href="https://react.dev/learn">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
     </a>
 </div>
