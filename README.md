@@ -22,30 +22,75 @@
 
 ## 💻 Tech Stack
 
-<p>
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+<div align="center">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+    </a>
+    <a href="https://docs.python.org/3/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+    </a>
+    <a href="https://www.php.net/docs.php">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+    </a>
+    <a href="https://dev.mysql.com/doc/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+    </a>
+  </div>
 
-<img alt="VSCode" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img alt="Godot" src="https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white" />
-<img alt="Blender" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img alt="PuTTY" src="https://img.shields.io/badge/-PuTTY-004080?style=flat-square&logo=putty&logoColor=white" />
-<img alt="Ren'Py" src="https://img.shields.io/badge/-Ren'Py-FF7F27?style=flat-square&logo=renpy&logoColor=white" />
-<img alt="Canva" src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+  <div align="center">
+    <a href="https://code.visualstudio.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+    </a>
+    <a href="https://godotengine.org/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo" />
+    </a>
+    <a href="https://www.blender.org/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo" />
+    </a>
+    <a href="https://www.figma.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+    </a>
+    <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo" />
+    </a>
+    <a href="https://www.renpy.org/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/renpy/renpy-original.svg" height="40" alt="renpy logo" />
+    </a>
+    <a href="https://www.canva.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40" alt="canva"/>
+    </a>
+  </div>
+</div>
 
-<img alt="Aseprite" src="https://img.shields.io/badge/-Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white" />
-<img alt="Krita" src="https://img.shields.io/badge/-Krita-3BABFF?style=flat-square&logo=krita&logoColor=white" />
-<img alt="XAMPP" src="https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" />
-<img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?style=flat-square&logo=audacity&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
+<br>
+
+<!--
+This is a funny easter egg. LAUGH!
+-->
+
+<div align="center">
+<a href="https://www.aseprite.org/">
+  <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=" alt="Aseprite" />
+</a>
+<a href="https://krita.org/en/">
+  <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" alt="Krita" />
+</a>
+<a href="https://www.apachefriends.org/index.html">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=XAMPP&color=FB7A24&logo=XAMPP&logoColor=FFFFFF&label=" alt="XAMPP" />
+</a>
+<a href="https://www.audacityteam.org/">
+  <img src="https://img.shields.io/badge/Audacity-0024da?style=for-the-badge&logo=Audacity" alt="Audacity Badge">
+</a>
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub" alt="GitHub Badge">
+</a>
+</div>
 
 ## 📊 GitHub Stats
 
