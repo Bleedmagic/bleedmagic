@@ -10,15 +10,15 @@
 
 ## 👨‍💻 About Me
 
-- 👨🏻‍💻 I am currently working on **Personal Knowledge Management** for my knowledge base and **Credit Cooperative Information and Accounting System** for a capstone project.
+- 🔭 I am currently working on **Personal Knowledge Management** for my knowledge base and **Credit Cooperative Information and Accounting System** for a capstone project.
 
 - 📂 **Portfolio Website**: [bleedmagic.github.io](https://bleedmagic.github.io/)
-
-- ⚡ **Fun fact**: I think white shirt and black pants rock!
 
 - 🎲 **Hobbies**: I enjoy gaming, listening to music, and messing with VS Code in my free time.
 
 - 🎯 **Goals**: I aim to be the most tech-savvy as I can be and contribute to projects.
+
+- ⚡ **Fun fact**: I think white shirt and black pants rock!
 
 ## 💻 Tech Stack
 
