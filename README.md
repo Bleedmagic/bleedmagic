@@ -67,15 +67,6 @@
     <a href="https://www.apachefriends.org/index.html">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=XAMPP&color=FB7A24&logo=XAMPP&logoColor=FFFFFF&label=" alt="XAMPP" />
     </a>
-    <a href="https://www.audacityteam.org/">
-        <img src="https://img.shields.io/badge/Audacity-0024da?style=for-the-badge&logo=Audacity" alt="Audacity Badge">
-    </a>
-    <a href="https://github.com/">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub" alt="GitHub Badge">
-    </a>
-    <a href="https://code.visualstudio.com/">
-        <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode Badge">
-    </a>
     <a href="https://godotengine.org/">
         <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot Badge">
     </a>
@@ -85,14 +76,8 @@
     <a href="https://www.figma.com/">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge">
     </a>
-    <a href="https://www.putty.org/">
-        <img src="https://img.shields.io/badge/PuTTY-3549A3?style=for-the-badge&logo=putty&logoColor=white" alt="PuTTY Badge">
-    </a>
     <a href="https://www.canva.com/">
         <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Badge">
-    </a>
-    <a href="https://www.renpy.org/">
-        <img src="https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white" alt="Ren'Py Badge">
     </a>
 </div>
 
