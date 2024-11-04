@@ -38,9 +38,6 @@
     <a href="https://www.php.net/docs.php">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
     </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="c# logo" />
-    </a>
     <a href="https://dev.mysql.com/doc/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
     </a>
@@ -50,8 +47,8 @@
     <a href="https://vuejs.org/guide/introduction.html">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue logo" />
     </a>
-    <a href="https://react.dev/learn">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+    <a href="https://nodejs.org/en/docs/">
+        <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
     </a>
 </div>
 
