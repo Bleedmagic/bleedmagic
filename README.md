@@ -5,7 +5,7 @@
 <!-- 👀 What are you looking at?! -->
 
 <p align="center">
-  <a href="https://github.com/Bleedmagic"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=2px&duration=3000&pause=225&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=95&lines=I+write+code%2C+perhaps+tragedies.;Running+on+a+potato+machine~;Printing+less+than+threes+since+forever!" alt="Typing SVG" /></a>
+  <a href="https://github.com/Bleedmagic#-about-me"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=2px&duration=3000&pause=225&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=95&lines=I+write+code%2C+perhaps+tragedies.;Running+on+a+potato+machine~;Printing+less+than+threes+since+forever!" alt="Typing SVG" /></a>
 </p>
 
 ## 👨‍💻 About Me
@@ -95,7 +95,7 @@
 ### A Gentle Reminder
 
 <div align="center">
-    <a href="https://github.com/Bleedmagic"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Remember:%20Hakuna%20Matata%20-%20&l0=ffebf0&l1=ffb3c1&l2=ff6f9c&l3=d50045&l4=a40025&frame=d50045&bg=ffe6f1&speed=100&comment=Despite%20everything,%20it's%20still%20you!%20%E2%9C%A8"></a>
+    <a href="https://github.com/Bleedmagic"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Remember:%20Hakuna%20Matata%20-%20&l0=ffebf0&l1=ffb3c1&l2=ff6f9c&l3=d50045&l4=a40025&frame=d50045&bg=ffe6f1&speed=100&comment=Despite%20everything,%20it's%20still%20you."></a>
 </div>
 
 ### Visit Count
