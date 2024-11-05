@@ -86,6 +86,31 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Bleedmagic&theme=onedark&no-frame=true&no-bg=true&margin-w=5&margin-h=5&row=2&column=4" alt="trophies"></img>
 </div>
 
+## 🌟 Misc
+
+<details>
+
+<summary>Contents compiled from browsing the platform.</summary>
+
+### Typograssy
+
+<div align="center">
+    <a href="https://github.com/Bleedmagic"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Work%20Your%20Magic!%20%3C-%3E%20&l0=ffebf0&l1=ffb3c1&l2=ff6f9c&l3=d50045&l4=a40025&frame=d50045&bg=ffe6f1&comment=Despite%20everything,%20it's%20still%20you!%20:)"></a>
+</div>
+
+### Counter
+
+<div align="center">
+    <a href="https://github.com/Bleedmagic"><img alt="Counter" src="https://count.getloli.com/@VisitCount?name=Bleedmagic&theme=asoul&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=auto"></a>
+</div>
+
+### Profile Insights
+
+- [gitstalk.netlify.app/bleedmagic](https://gitstalk.netlify.app/bleedmagic)
+- [profile-summary-for-github.com/user/bleedmagic](https://profile-summary-for-github.com/user/bleedmagic)
+
+</details>
+
 ---
 
 > Love Today, and seize _All Tomorrows_. ✨
@@ -93,11 +118,5 @@
 — C.M. Kösemen
 
 <!--
-The me writing this wants to make a blog, so get to it, future me!
--->
-
-<!--
-<div align="center">
-👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
-</div>
+The me writing this wants to make a blog and display it here, so get to it, future me!
 -->
