@@ -101,7 +101,7 @@
 ### Visit Count
 
 <div align="center">
-    <a href="https://github.com/Bleedmagic"><img alt="Counter" src="https://count.getloli.com/@Bleedmagic?name=MoeCounter&theme=original-new&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto"></a>
+    <a href="https://github.com/Bleedmagic"><img alt="Counter" src="https://count.getloli.com/@Bleedmagic?name=MoeCounter&theme=original-new&padding=7&offset=15&align=center&scale=0.9&pixelated=1&darkmode=auto"></a>
 </div>
 
 ### Profile Insights
