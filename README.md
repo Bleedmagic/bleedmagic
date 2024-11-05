@@ -92,7 +92,7 @@
 
 <summary>Contents compiled from browsing the platform.</summary>
 
-### Typograssy
+### Typography like GitHub-grass
 
 <div align="center">
     <a href="https://github.com/Bleedmagic"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Work%20Your%20Magic!%20%3C-%3E%20&l0=ffebf0&l1=ffb3c1&l2=ff6f9c&l3=d50045&l4=a40025&frame=d50045&bg=ffe6f1&speed=100&comment=Despite%20everything,%20it's%20still%20you!%20:)"></a>
