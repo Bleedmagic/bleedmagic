@@ -18,7 +18,7 @@
 
 - 🎯 **Goals**: I aim to be the most tech-savvy as I can be and contribute to projects.
 
-- ⚡ **Fun fact**: I think white shirt and black pants rock!
+- ⚡ **Fun fact**: I think that wearing a white shirt and black pants together is really cool!
 
 ## 💻 Tech Stack
 
@@ -92,10 +92,10 @@
 
 <summary>Contents compiled from browsing the platform.</summary>
 
-### A Message
+### A Gentle Reminder
 
 <div align="center">
-    <a href="https://github.com/Bleedmagic"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Work%20Your%20Magic!%20%3C-%3E%20&l0=ffebf0&l1=ffb3c1&l2=ff6f9c&l3=d50045&l4=a40025&frame=d50045&bg=ffe6f1&speed=100&comment=Despite%20everything,%20it's%20still%20you!%20%E2%9C%A8"></a>
+    <a href="https://github.com/Bleedmagic"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Remember:%20Hakuna%20Matata%20-%20&l0=ffebf0&l1=ffb3c1&l2=ff6f9c&l3=d50045&l4=a40025&frame=d50045&bg=ffe6f1&speed=100&comment=Despite%20everything,%20it's%20still%20you!%20%E2%9C%A8"></a>
 </div>
 
 ### Visit Count
@@ -113,13 +113,13 @@
 
 ---
 
-<p align="center">
+> Love Today, and seize _All Tomorrows_. :sparkling_heart:
+
+— C.M. Kösemen
+
+<!-- <p align="center">
     Made with 💖 by Victor [|87
-</p>
-
-<!-- > Love Today, and seize _All Tomorrows_. :sparkling_heart:
-
-— C.M. Kösemen -->
+</p> -->
 
 <!--
 The me writing this wants to make a blog and display it here, so get to it, future me!
