@@ -50,6 +50,9 @@
     <a href="https://nodejs.org/en/docs/">
         <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
     </a>
+    <a href="https://laravel.com/docs">
+        <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel logo" />
+    </a>
 </div>
 
 <br>
