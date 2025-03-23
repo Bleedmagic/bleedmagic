@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I am currently working on **Personal Knowledge Management** for my knowledge base and **Credit Cooperative Information and Accounting System** for a capstone project.
+- 🔭 I am currently working on a **Personal Knowledge Management** for my knowledge base and **Credit Cooperative Information and Accounting System** for a capstone project.
 
 - 📂 **Portfolio Website**: [bleedmagic.github.io](https://bleedmagic.github.io/)
 
@@ -24,33 +24,37 @@
 
 <div align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
     </a>
     <a href="https://docs.python.org/3/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
     </a>
     <a href="https://www.php.net/docs.php">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
     </a>
-    <a href="https://dev.mysql.com/doc/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-    </a>
-    <a href="https://getbootstrap.com/docs/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+    <a href="https://laravel.com/docs">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel logo" />
     </a>
     <a href="https://vuejs.org/guide/introduction.html">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo" />
     </a>
-    <a href="https://nodejs.org/en/docs/">
-        <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
+    <a href="https://tailwindcss.com/docs">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS logo" />
+    </a>
+    <a href="https://dev.mysql.com/doc/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+    </a>
+    <a href="https://www.tensorflow.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
     </a>
 </div>
+
 
 <br>
 
@@ -95,7 +99,7 @@
 ### A Gentle Reminder
 
 <div align="center">
-    <a href="https://github.com/Bleedmagic"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Remember:%20Hakuna%20Matata%20-%20&l0=ffebf0&l1=ffb3c1&l2=ff6f9c&l3=d50045&l4=a40025&frame=d50045&bg=ffe6f1&speed=100&comment=Despite%20everything,%20it's%20still%20you."></a>
+    <a href="https://github.com/Bleedmagic"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hakuna%20Matata%20&l0=ffebf0&l1=ffb3c1&l2=ff6f9c&l3=d50045&l4=a40025&frame=d50045&bg=ffe6f1&speed=100&comment=What%20a%20wonderful%20phrase!"></a>
 </div>
 
 ### Visit Count
