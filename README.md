@@ -2,8 +2,6 @@
 
 [steam]: https://steamcommunity.com/profiles/76561198444268546
 
-<!-- 👀 What are you looking at?! -->
-
 <p align="center">
   <a href="#-about-me"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=2px&duration=3000&pause=225&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=95&lines=I+write+code%2C+perhaps+tragedies.;Running+on+a+potato+machine~;Printing+less+than+threes+since+forever!" alt="Typing SVG" /></a>
 </p>
@@ -18,7 +16,7 @@
 
 - 🎯 **Goals**: I aim to be the most tech-savvy as I can be and contribute to projects.
 
-- ⚡ **Fun fact**: I think that wearing a white shirt and black pants together is really cool!
+- ⚡ **Fun fact**: I think that wearing a white shirt and black pants together is pretty neat!
 
 ## 💻 Tech Stack
 
@@ -54,7 +52,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
     </a>
 </div>
-
 
 <br>
 
@@ -96,10 +93,10 @@
 
 <summary>Contents compiled from browsing the platform.</summary>
 
-### A Gentle Reminder
+### A Wonderful Phrase
 
 <div align="center">
-    <a href="https://github.com/Bleedmagic"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hakuna%20Matata%20&l0=ffebf0&l1=ffb3c1&l2=ff6f9c&l3=d50045&l4=a40025&frame=d50045&bg=ffe6f1&speed=100&comment=What%20a%20wonderful%20phrase!"></a>
+    <a href="https://github.com/Bleedmagic"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hakuna%20Matata,%20&l0=ffebf0&l1=ffb3c1&l2=ff6f9c&l3=d50045&l4=a40025&frame=d50045&bg=ffe6f1&speed=100&comment=It's%20our%20problem-free%20philosophy!"></a>
 </div>
 
 ### Visit Count
