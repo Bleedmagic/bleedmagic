@@ -5,7 +5,7 @@
 <!-- 👀 What are you looking at?! -->
 
 <p align="center">
-  <a href="https://github.com/Bleedmagic#-about-me"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=2px&duration=3000&pause=225&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=95&lines=I+write+code%2C+perhaps+tragedies.;Running+on+a+potato+machine~;Printing+less+than+threes+since+forever!" alt="Typing SVG" /></a>
+  <a href="#-about-me"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=2px&duration=3000&pause=225&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=95&lines=I+write+code%2C+perhaps+tragedies.;Running+on+a+potato+machine~;Printing+less+than+threes+since+forever!" alt="Typing SVG" /></a>
 </p>
 
 ## 👨‍💻 About Me
@@ -52,6 +52,9 @@
     </a>
     <a href="https://www.tensorflow.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
+    </a>
+    <a href="https://laravel.com/docs">
+        <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel logo" />
     </a>
 </div>
 
