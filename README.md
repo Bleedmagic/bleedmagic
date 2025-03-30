@@ -32,7 +32,7 @@
     <a href="https://www.php.net/docs.php">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
     </a>
-<br>
+    <br>
     <a href="https://laravel.com/docs">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel logo" />
     </a>
@@ -68,6 +68,7 @@
     <a href="https://www.blender.org/">
         <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender Badge">
     </a>
+    <br>
     <a href="https://www.figma.com/">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge">
     </a>
