@@ -3,7 +3,7 @@
 [steam]: https://steamcommunity.com/profiles/76561198444268546
 
 <p align="center">
-  <a href="#-about-me"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=2px&duration=3000&pause=225&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=95&lines=I+write+code%2C+perhaps+tragedies.;Running+on+a+potato+machine~;Printing+less+than+threes+since+forever!" alt="Typing SVG" /></a>
+  <a href="#-about-me"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=2px&duration=3000&pause=225&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=95&lines=GMT%2FUTC%2B8;I+play+games+and+write+code.;Printing+less+than+3s+since+forever!" alt="Typing SVG" /></a>
 </p>
 
 ## 👨‍💻 About Me
@@ -32,6 +32,7 @@
     <a href="https://www.php.net/docs.php">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
     </a>
+<br>
     <a href="https://laravel.com/docs">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel logo" />
     </a>
@@ -72,6 +73,12 @@
     </a>
     <a href="https://www.canva.com/">
         <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Badge">
+    </a>
+    <a href="https://www.heidisql.com/">
+    <img src="https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&logo=mariadb&logoColor=white" alt="HeidiSQL Badge">
+    </a>
+    <a href="https://www.cisco.com/">
+    <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Badge">
     </a>
 </div>
 
