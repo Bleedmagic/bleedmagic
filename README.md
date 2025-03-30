@@ -8,10 +8,6 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I am currently working on a **Personal Knowledge Management** for my knowledge base and **Credit Cooperative Information and Accounting System** for a capstone project.
-
-- 📂 **Portfolio Website**: [bleedmagic.github.io](https://bleedmagic.github.io/)
-
 - 🎲 **Hobbies**: I enjoy gaming, listening to music, and messing with VS Code in my free time.
 
 - 🎯 **Goals**: I aim to be the most tech-savvy as I can be and contribute to projects.
@@ -114,9 +110,9 @@
 
 ---
 
-> Love Today, and seize _All Tomorrows_. :sparkling_heart:
+> Carpe diem, quam minimum credula postero. :hourglass: :performing_arts:
 
-— C.M. Kösemen
+— Horace, Odes (Book 1, Poem 11)
 
 <!-- <p align="center">
     Made with 💖 by Victor [|87
