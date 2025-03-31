@@ -118,7 +118,7 @@
 
 ---
 
-> Carpe diem, quam minimum credula postero. :hourglass: :performing_arts:
+> Carpe diem, quam minimum credula postero. :hourglass:
 
 — Horace, Odes (Book 1, Poem 11)
 
