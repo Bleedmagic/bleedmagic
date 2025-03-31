@@ -1,18 +1,10 @@
-# Kumusta 👋, Welcome! I'm Victor ([Bleedmagic][steam])
+# Kumusta 👋 Welcome! I'm Victor ([Bleedmagic][steam])
 
 [steam]: https://steamcommunity.com/profiles/76561198444268546
 
 <p align="center">
   <a href="#-about-me"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=2px&duration=3000&pause=225&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=95&lines=GMT%2FUTC%2B8;I+play+games+and+write+code.;Printing+less+than+3s+since+forever!" alt="Typing SVG" /></a>
 </p>
-
-## 👨‍💻 About Me
-
-- 🎲 **Hobbies**: I enjoy gaming, listening to music, and messing with VS Code in my free time.
-
-- 🎯 **Goals**: I aim to be the most tech-savvy as I can be and contribute to projects.
-
-- ⚡ **Fun fact**: I think that wearing a white shirt and black pants together is pretty neat!
 
 ## 💻 Tech Stack
 
