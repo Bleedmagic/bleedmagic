@@ -14,7 +14,7 @@
 [steam]: https://steamcommunity.com/profiles/76561198444268546
 
 <p align="center">
-  <a href="#-about-me"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=2px&duration=3000&pause=225&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=95&lines=GMT%2FUTC%2B8;I+play+games+and+write+code.;Printing+less+than+3s+since+forever!" alt="Typing SVG" /></a>
+  <a href="#-about-me"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=2px&duration=1800&pause=200&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=95&lines=GMT%2FUTC%2B8;I+play+games+and+write+code.;Printing+less+than+3s+since+forever!" alt="Typing SVG" /></a>
 </p>
 
 ## 👨‍💻 About Me
@@ -113,13 +113,17 @@
 ### A Wonderful Phrase
 
 <div align="center">
-    <a href="https://github.com/Bleedmagic"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hakuna%20Matata,%20&l0=ffebf0&l1=ffb3c1&l2=ff6f9c&l3=d50045&l4=a40025&frame=d50045&bg=ffe6f1&speed=100&comment=It's%20our%20problem-free%20philosophy!"></a>
+  <a href="https://github.com/Bleedmagic">
+    <img
+      alt="typograssy"
+      src="https://typograssy.deno.dev/api?text=Hakuna%20Matata,%20&l0=fbf1c7&l1=d79921&l2=689d6a&l3=458588&l4=cc241d&frame=d65d0e&bg=fbf1c7&speed=100&comment=It's%20our%20problem-free%20philosophy!" />
+  </a>
 </div>
 
 ### Visit Count
 
 <div align="center">
-    <a href="https://github.com/Bleedmagic"><img alt="Counter" src="https://count.getloli.com/@Bleedmagic?name=MoeCounter&theme=original-new&padding=7&offset=15&align=center&scale=0.9&pixelated=1&darkmode=auto"></a>
+    <a href="https://github.com/Bleedmagic"><img alt="Counter" src="https://count.getloli.com/@Bleedmagic?name=MoeCounter&theme=rule34&padding=7&offset=15&align=center&scale=0.9&pixelated=1&darkmode=auto"></a>
 </div>
 
 ### Profile Insights
