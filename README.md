@@ -25,7 +25,7 @@
 
 - ⚡ **Fun fact**: I think that wearing a white shirt and black pants together is pretty neat!
 
-- Check these out: [Bleedmagic's Gists](https://gist.github.com/bleedmagic/public)
+- Check these out: [Bleedmagic's Gists](https://gist.github.com/bleedmagic)
 
 ## 💻 Tech Stack
 
