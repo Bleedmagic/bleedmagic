@@ -56,7 +56,7 @@
 
 <div align="center">
     <a href="https://www.aseprite.org/">
-        <img src="https://img.shields.io/badge/Aseprite-CCCCCC?style=for-the-badge&logo=Aseprite&logoColor=" alt="Aseprite" />
+        <img src="https://img.shields.io/badge/Aseprite-BCAAA4?style=for-the-badge&logo=Aseprite&logoColor=" alt="Aseprite" />
     </a>
     <a href="https://krita.org/en/">
         <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" alt="Krita" />
