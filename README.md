@@ -99,7 +99,7 @@
 
 <summary>Contents compiled from browsing the platform.</summary>
 
-[text](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Input%20text&reversal=true&section=header&textBg=false&fontAlign=50&animation=twinkling&descSize=50&descAlignY=69&fontAlignY=25&fontSize=20)
+https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Input%20text&reversal=true&section=header&textBg=false&fontAlign=50&animation=twinkling&descSize=50&descAlignY=69&fontAlignY=25&fontSize=20
 
 ### A Wonderful Phrase
 
