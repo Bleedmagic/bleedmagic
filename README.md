@@ -1,4 +1,4 @@
-# Kumusta 👋, Welcome! I'm Victor ([Bleedmagic][steam])
+# Victor ([Bleedmagic][steam])'s'
 
 [steam]: https://steamcommunity.com/profiles/76561198444268546
 
