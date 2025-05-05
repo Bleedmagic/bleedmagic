@@ -1,4 +1,4 @@
-# Victor ([Bleedmagic][steam]'s Information Box')
+# Victor ([Bleedmagic][steam])
 
 [steam]: https://steamcommunity.com/profiles/76561198444268546
 
