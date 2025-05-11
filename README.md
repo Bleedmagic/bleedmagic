@@ -131,7 +131,7 @@
 — Horace, Odes (Book 1, Poem 11)
 
 <!-- <p align="center">
-    Made with 💖 by Victor [|87
+    Made with 💖 by Victor (Bleedmagic) Vasquez [|87
 </p> -->
 
 <!--
