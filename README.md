@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
 # Kumusta 👋, Welcome! I'm Victor ([Bleedmagic][steam])
 
 [steam]: https://steamcommunity.com/profiles/76561198444268546
@@ -135,5 +133,3 @@
 <!-- <p align="center">
     Made with 💖 by Victor (Bleedmagic) Vasquez [|87
 </p> -->
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
