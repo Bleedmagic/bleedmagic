@@ -133,7 +133,3 @@
 <!-- <p align="center">
     Made with 💖 by Victor (Bleedmagic) Vasquez [|87
 </p> -->
-
-<!--
-The me writing this wants to make a blog and display it here, so get to it, future me!
--->
