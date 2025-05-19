@@ -5,7 +5,7 @@
 <!-- 👀  -->
 
 <p align="center">
-  <a href="https://microsoftgithub.com/bleedmagic"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=25&letterSpacing=2px&duration=1800&pause=200&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=GMT%2FUTC%2B8;I+play+games+and+write+code.;Printing+less+than+3s+since+forever!" alt="Typing SVG" /></a>
+  <a href="https://microsoftgithub.com/bleedmagic"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=25&letterSpacing=2px&duration=1800&pause=200&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=GMT%2FUTC%2B8;Bugs+fear+me.+Features+follow+me.;Printing+less+than+3s+since+forever!" alt="Typing SVG" /></a>
 </p>
 
 ## 👨‍💻 About Me
