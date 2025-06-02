@@ -1,3 +1,5 @@
+# Bleedmagic's Github Box
+
 ![Banner](./banner.png)
 
 <!-- 👀  -->
@@ -8,11 +10,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎲 **Hobbies**: I enjoy gaming, listening to music, and messing with VS Code in my free time.
+- 🎲 **Hobbies**: I enjoy gaming on [Steam][steam], listening to music on [Spotify][spotify], and messing with [VS Code][vscode-extensions] in my free time.
 
-- 🎯 **Goals**: I aim to be the most tech-savvy as I can be and contribute to projects.
-
-- ⚡ **Fun fact**: I think that wearing a white shirt and black pants together is pretty neat!
+- 🎯 **Goals**: I aim to be the most tech-savvy as I can be and contribute to projects!
 
 - Check these out: [Bleedmagic's Gists](https://gist.github.com/bleedmagic)
 
@@ -127,6 +127,12 @@
 > Carpe diem, quam minimum credula postero. :hourglass:
 
 — Horace, Odes (Book 1, Poem 11)
+
+[steam]: https://steamcommunity.com/profiles/76561198444268546
+
+[spotify]: https://open.spotify.com/user/21splkbtjfhtuuq4rqzewuzsi
+
+[vscode-extensions]: https://github.com/Bleedmagic/Bleedmagic-Extension-Pack
 
 <!-- <p align="center">
     Made with 💖 by Victor (Bleedmagic) Vasquez [|87
