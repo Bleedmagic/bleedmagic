@@ -115,11 +115,6 @@ Check these out: [Bleedmagic's Gists](https://gist.github.com/bleedmagic)
     <a href="https://github.com/Bleedmagic"><img alt="Counter" src="https://count.getloli.com/@Bleedmagic?name=MoeCounter&theme=rule34&padding=7&offset=15&align=center&scale=1.5&pixelated=1&darkmode=auto"></a>
 </div>
 
-### Profile Insights
-
-- [gitstalk.netlify.app/bleedmagic](https://gitstalk.netlify.app/bleedmagic)
-- [profile-summary-for-github.com/user/bleedmagic](https://profile-summary-for-github.com/user/bleedmagic)
-
 ### Pacman
 
 <picture>
@@ -127,6 +122,11 @@ Check these out: [Bleedmagic's Gists](https://gist.github.com/bleedmagic)
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bleedmagic/bleedmagic/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bleedmagic/bleedmagic/output/pacman-contribution-graph.svg">
 </picture>
+
+### Profile Insights
+
+- [gitstalk.netlify.app/bleedmagic](https://gitstalk.netlify.app/bleedmagic)
+- [profile-summary-for-github.com/user/bleedmagic](https://profile-summary-for-github.com/user/bleedmagic)
 
 </details>
 
