@@ -120,14 +120,6 @@ Check these out: [Bleedmagic's Gists](https://gist.github.com/bleedmagic)
 - [gitstalk.netlify.app/bleedmagic](https://gitstalk.netlify.app/bleedmagic)
 - [profile-summary-for-github.com/user/bleedmagic](https://profile-summary-for-github.com/user/bleedmagic)
 
-### Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bleedmagic/bleedmagic/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bleedmagic/bleedmagic/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/bleedmagic/bleedmagic/output/github-snake.svg" />
-</picture>
-
 ### Pacman
 
 <picture>
