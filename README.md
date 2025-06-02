@@ -1,6 +1,6 @@
 # Kumusta 👋, Welcome! I'm Victor ([Bleedmagic][github-page])
 
-<!-- ![Banner](./github-header-image.png) -->
+![Banner](./github-header-image.png)
 
 <!-- 👀  -->
 
@@ -12,8 +12,9 @@
 
 - 🎯 **Goals**: I aim to be the most tech-savvy as I can be and contribute to projects!
 - 🎲 **Hobbies**: I enjoy [gaming][steam], listening to [music][spotify], and messing with [configs][vscode-extensions] in my free time.
-- 💡 **Fun Fact**: The facemask stays on always. Yes, even while coding.
-- Check these out: [Bleedmagic's Gists](https://gist.github.com/bleedmagic)
+- 💡 **Fun Fact**: The facemask stays on—even while coding.
+
+Check these out: [Bleedmagic's Gists](https://gist.github.com/bleedmagic)
 
 ## 💻 Tech Stack
 
