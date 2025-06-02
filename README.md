@@ -11,8 +11,8 @@
 ## 👨‍💻 About Me
 
 - 🎯 **Goals**: I aim to be the most tech-savvy as I can be and contribute to projects!
-- 🎲 **Hobbies**: I enjoy gaming on [Steam][steam], listening to music on [Spotify][spotify], and messing with [VS Code][vscode-extensions] in my free time.
-- 💡 **Fun Fact**: The facemask stays on—even while coding.
+- 🎲 **Hobbies**: I enjoy [gaming][steam], listening to [music][spotify], and messing with [configs][vscode-extensions].
+- 💡 **Fun Fact**: The facemask stays on always. Yes, even while coding.
 - Check these out: [Bleedmagic's Gists](https://gist.github.com/bleedmagic)
 
 ## 💻 Tech Stack
