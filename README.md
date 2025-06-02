@@ -1,6 +1,6 @@
-# Bleedmagic's Github Box
+# Kumusta 👋, Welcome! I'm Victor ([Bleedmagic][github-page])
 
-![Banner](./banner.png)
+<!-- ![Banner](./banner.png) -->
 
 <!-- 👀  -->
 
@@ -10,10 +10,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎲 **Hobbies**: I enjoy gaming on [Steam][steam], listening to music on [Spotify][spotify], and messing with [VS Code][vscode-extensions] in my free time.
-
 - 🎯 **Goals**: I aim to be the most tech-savvy as I can be and contribute to projects!
-
+- 🎲 **Hobbies**: I enjoy gaming on [Steam][steam], listening to music on [Spotify][spotify], and messing with [VS Code][vscode-extensions] in my free time.
+- 💡 **Fun Fact**: The facemask stays on—even while coding.
 - Check these out: [Bleedmagic's Gists](https://gist.github.com/bleedmagic)
 
 ## 💻 Tech Stack
@@ -127,6 +126,8 @@
 > Carpe diem, quam minimum credula postero. :hourglass:
 
 — Horace, Odes (Book 1, Poem 11)
+
+[github-page]: https://bleedmagic.github.io/
 
 [steam]: https://steamcommunity.com/profiles/76561198444268546
 
