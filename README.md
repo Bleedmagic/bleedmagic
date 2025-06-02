@@ -128,6 +128,14 @@ Check these out: [Bleedmagic's Gists](https://gist.github.com/bleedmagic)
   <img alt="github-snake" src="https://raw.githubusercontent.com/bleedmagic/bleedmagic/output/github-snake.svg" />
 </picture>
 
+### Pacman
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bleedmagic/bleedmagic/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bleedmagic/bleedmagic/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bleedmagic/bleedmagic/output/pacman-contribution-graph.svg">
+</picture>
+
 </details>
 
 ---
