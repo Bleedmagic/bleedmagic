@@ -12,11 +12,11 @@
 
 - 🎯 **Goals**: I aim to be the most tech-savvy as I can be and contribute to projects!
 
-- 🎲 **Hobbies**: I enjoy gaming, listening to music, and messing with VS Code in my free time.
+- 🎲 **Hobbies**: I enjoy gaming, listening to music, and messing with configs in my free time.
 
 - 💡 **Fun Fact**: The facemask stays on—even while coding.
 
-> Check these out: [Bleedmagic's Gists][gists]
+> Check these out: [Bleedmagic's Gists][gh-gists] & [Page][gh-page]
 
 ## 💻 Tech Stack
 
@@ -85,6 +85,9 @@
     <a href="https://www.cisco.com/">
     <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Badge">
     </a>
+        <a href="https://git-scm.com/">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+    </a>
 </div>
 
 ## 📊 GitHub Stats
@@ -140,7 +143,9 @@
 
 [steam]: https://steamcommunity.com/profiles/76561198444268546
 
-[gists]: https://gist.github.com/bleedmagic
+[gh-gists]: https://gist.github.com/bleedmagic
+
+[gh-page]: https://bleedmagic.github.io/
 
 <!-- <p align="center">
     Made with 💖 by Victor (Bleedmagic) Vasquez [|87
