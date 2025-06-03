@@ -1,6 +1,6 @@
 # Kumusta 👋, Welcome! I'm Victor ([Bleedmagic][github-page])
 
-![Header](assets/github-header-image.webp)
+![Header](assets/github-header-image.png)
 
 <!-- 👀  -->
 
@@ -149,3 +149,5 @@
 <!-- <p align="center">
     Made with 💖 by Victor (Bleedmagic) Vasquez [|87
 </p> -->
+
+<!-- @TODO Workflows: Metrics, Blog/Youtube -->
