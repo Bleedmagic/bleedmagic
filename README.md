@@ -1,6 +1,6 @@
 # Kumusta 👋, Welcome! I'm Victor ([Bleedmagic][github-page])
 
-![Header](./github-header-image.png)
+![Header](assets/github-header-image.png)
 
 <!-- 👀  -->
 
@@ -14,7 +14,7 @@
 - 🎲 **Hobbies**: I enjoy [gaming][steam], listening to [music][spotify], and messing with [configs][vscode-extensions] in my free time.
 - 💡 **Fun Fact**: The facemask stays on—even while coding.
 
-Check these out: [Bleedmagic's Gists](https://gist.github.com/bleedmagic)
+> Check these out: [Bleedmagic's Gists][gists]
 
 ## 💻 Tech Stack
 
@@ -143,6 +143,8 @@ Check these out: [Bleedmagic's Gists](https://gist.github.com/bleedmagic)
 [spotify]: https://open.spotify.com/user/21splkbtjfhtuuq4rqzewuzsi
 
 [vscode-extensions]: https://github.com/Bleedmagic/Bleedmagic-Extension-Pack
+
+[gists]: https://gist.github.com/bleedmagic
 
 <!-- <p align="center">
     Made with 💖 by Victor (Bleedmagic) Vasquez [|87
