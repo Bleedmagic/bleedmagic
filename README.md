@@ -11,7 +11,9 @@
 ## 👨‍💻 About Me
 
 - 🎯 **Goals**: I aim to be the most tech-savvy as I can be and contribute to projects!
+
 - 🎲 **Hobbies**: I enjoy [gaming][steam], listening to [music][spotify], and messing with [configs][vscode-extensions] in my free time.
+
 - 💡 **Fun Fact**: The facemask stays on—even while coding.
 
 > Check these out: [Bleedmagic's Gists][gists]
