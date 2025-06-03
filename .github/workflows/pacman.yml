@@ -23,17 +23,21 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          platform: github
-          theme: dark
-          speed: 1
-          sound: false
-          output: svg
 
       - name: Prepare pacman output (light and dark)
         run: |
           mkdir -p dist/pacman
-          find . -path ./dist -prune -o -name 'pacman-contribution-graph.svg' -exec cp {} dist/pacman/ \;
-          find . -path ./dist -prune -o -name 'pacman-contribution-graph-dark.svg' -exec cp {} dist/pacman/ \;
+          if [ -f pacman-contribution-graph.svg ]; then
+            mv pacman-contribution-graph.svg dist/pacman/
+          elif [ -f */pacman-contribution-graph.svg ]; then
+            mv */pacman-contribution-graph.svg dist/pacman/
+          fi
+
+          if [ -f pacman-contribution-graph-dark.svg ]; then
+            mv pacman-contribution-graph-dark.svg dist/pacman/
+          elif [ -f */pacman-contribution-graph-dark.svg ]; then
+            mv */pacman-contribution-graph-dark.svg dist/pacman/
+          fi
 
       - name: Push pacman output to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
