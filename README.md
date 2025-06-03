@@ -1,6 +1,6 @@
 # Kumusta 👋, Welcome! I'm Victor ([Bleedmagic][github-page])
 
-![Header](assets/github-header-image.png)
+![Header](assets/github-header-image.webp)
 
 <!-- 👀  -->
 
