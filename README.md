@@ -118,9 +118,9 @@ Check these out: [Bleedmagic's Gists](https://gist.github.com/bleedmagic)
 ### Pacman
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bleedmagic/bleedmagic/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bleedmagic/bleedmagic/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bleedmagic/bleedmagic/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bleedmagic/bleedmagic/output/pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bleedmagic/bleedmagic/output/pacman/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bleedmagic/bleedmagic/output/pacman/pacman-contribution-graph.svg">
 </picture>
 
 ### Profile Insights
