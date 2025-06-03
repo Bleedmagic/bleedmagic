@@ -1,4 +1,4 @@
-# Kumusta 👋, Welcome! I'm Victor ([Bleedmagic][github-page])
+# Kumusta 👋, Welcome! I'm Victor ([Bleedmagic][steam])
 
 ![Header](assets/github-header-image.png)
 
@@ -12,7 +12,7 @@
 
 - 🎯 **Goals**: I aim to be the most tech-savvy as I can be and contribute to projects!
 
-- 🎲 **Hobbies**: I enjoy [gaming][steam], listening to [music][spotify], and messing with [configs][vscode-extensions] in my free time.
+- 🎲 **Hobbies**: I enjoy gaming, listening to music, and messing with VS Code in my free time.
 
 - 💡 **Fun Fact**: The facemask stays on—even while coding.
 
@@ -138,13 +138,7 @@
 
 — Horace, Odes (Book 1, Poem 11)
 
-[github-page]: https://bleedmagic.github.io/
-
 [steam]: https://steamcommunity.com/profiles/76561198444268546
-
-[spotify]: https://open.spotify.com/user/21splkbtjfhtuuq4rqzewuzsi
-
-[vscode-extensions]: https://github.com/Bleedmagic/Bleedmagic-Extension-Pack
 
 [gists]: https://gist.github.com/bleedmagic
 
