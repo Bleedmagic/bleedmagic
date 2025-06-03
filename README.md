@@ -16,7 +16,7 @@
 
 - 💡 **Fun Fact**: The facemask stays on—even while coding.
 
-> Check these out: [Bleedmagic's Gists][gh-gists] & [Page][gh-page]
+> Check these out: [My Gists][gh-gists] & [Github Page][gh-page]
 
 ## 💻 Tech Stack
 
