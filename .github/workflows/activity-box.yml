@@ -25,4 +25,4 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           GH_USERNAME: Bleedmagic
           GIST_ID: ${{ secrets.GIST_ID }}
-          DESCRIPTION: "🧩 Bleedmagic's Recent Activities (PRs and Issues)"
+          DESCRIPTION: "🧩 Bleedmagic's Recent PRs and Issues"
