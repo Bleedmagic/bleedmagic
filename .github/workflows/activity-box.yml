@@ -25,6 +25,4 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           GH_USERNAME: Bleedmagic
           GIST_ID: ${{ secrets.GIST_ID }}
-          EXCLUDE_OWNER: ${{ vars.EXCLUDE_OWNER }}
-          EXCLUDE_REPO: ${{ vars.EXCLUDE_REPO }}
-          DESCRIPTION: "Bleedmagic's Recent Activities"
+          DESCRIPTION: "🧩 Bleedmagic's Recent Activities (PRs and Issues)"
