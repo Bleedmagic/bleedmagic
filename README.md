@@ -1,11 +1,11 @@
 # Kumusta 👋, Welcome! I'm Victor ([Bleedmagic][steam])
 
-<a href="https://microsoftgithub.com/bleedmagic" target="_blank" rel="noopener">
+<a href="https://bleedmagic.github.io/">
   <img src="assets/github-header-image.png" alt="Header">
 </a>
 
 <p align="center">
-  <a href="https://microsoftgithub.com/bleedmagic" target="_blank" rel="noopener"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=25&letterSpacing=2px&duration=1800&pause=200&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Coffee+-+Code+-+Commit;Bugs+fear+me%2C+features+follow+me.;Printing+less+than+threes+since+forever!" alt="Typing SVG" /></a>
+  <a href="https://github.com/Bleedmagic"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=25&letterSpacing=2px&duration=1800&pause=200&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Coffee+-+Code+-+Commit;Bugs+fear+me%2C+features+follow+me.;Printing+less+than+threes+since+forever!" alt="Typing SVG" /></a>
 </p>
 
 ## 👨‍💻 About Me
@@ -106,7 +106,7 @@
 
 ### Card Profile
 
-<a href="https://github.com/Bleedmagic">
+<a href="https://microsoftgithub.com/bleedmagic">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bleedmagic/bleedmagic/main/dark_mode.svg">
     <img alt="Bleedmagic's Card Profile" src="https://raw.githubusercontent.com/Bleedmagic/bleedmagic/main/light_mode.svg">
