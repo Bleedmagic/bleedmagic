@@ -1,14 +1,12 @@
-name: README Card
+name: Card Profile
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */12 * * *'
   push:
     branches:
       - main
-
-permissions:
-  contents: write
 
 jobs:
   build:
@@ -40,6 +38,6 @@ jobs:
           git add .
           git diff
           git config --global user.email "github-actions-bot@bleedmagic.github.io"
-          git config --global user.name "Bleedmagic/GitHub-Actions-Bot"
+          git config --global user.name "Bleedmagic/CI-Bot"
           git commit -m "Update README.md and SVGs" -a || echo "No changes to commit"
           git push
