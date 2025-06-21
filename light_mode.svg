@@ -36,8 +36,8 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="350">           @%.+%%*++++= #@@*           </tspan>
 <tspan x="15" y="370">          :@@@=.+%%@@%@@@:             </tspan>
 <tspan x="15" y="390">         @#+*#=@@#%%=..                </tspan>
-<tspan x="15" y="410">         @.:+%**##*++#@*  .            </tspan>
-<tspan x="15" y="430">.:-      @=*#%@@#***+@@%               </tspan>
+<tspan x="15" y="410">         @.:+%**##*++#@*               </tspan>
+<tspan x="15" y="430">         @=*#%@@#***+@@%               </tspan>
 <tspan x="15" y="450">     ..@=@@@@@######@@ @:              </tspan>
 <tspan x="15" y="470">=.+ =%@* @%******#@@@@.@@ @+ * #       </tspan>
 <tspan x="15" y="490"> %@@@+#. %@#++##*%@%+ :*@: @#@  @@     </tspan>
@@ -58,16 +58,16 @@ text, tspan {white-space: pre;}
 
   <tspan x="390" y="210" class="cc">. </tspan>
 
-  <tspan x="390" y="230" class="cc">. </tspan>
-  <tspan x="390" y="250" class="cc">. </tspan>
-  <tspan x="390" y="270" class="cc">. </tspan>
+  <tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Gaming, Music, Coding, Cycling</tspan>
+  <tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Likes</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Languages, Cats, Configs</tspan>
+  <tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Dislikes</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Long lines, Poor Structure, Bloat</tspan>
 
   <tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
   <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">bleedmagic@proton.me</tspan>
   <tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">bleedmagic@tuta.io</tspan>
   <tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">bleedmagic87</tspan>
-  <tspan x="390" y="390" class="cc">. </tspan>
-  <tspan x="390" y="410" class="cc">. </tspan>
+  <tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Mastodon</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">‬@bleedmagic</tspan>
+  <tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Bluesky</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">‪@dvvvasquez.bsky.social‬</tspan>
 
   <tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
   <tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">14</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">38</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">2</tspan>
