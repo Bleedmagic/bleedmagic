@@ -1,8 +1,8 @@
 # Kumusta 👋, Welcome! I'm Victor ([Bleedmagic][steam])
 
-<a href="https://bleedmagic.github.io/">
+<!-- <a href="https://bleedmagic.github.io/">
   <img src="assets/github-header-image.png" alt="Header">
-</a>
+</a> -->
 
 <p align="center">
   <a href="https://github.com/Bleedmagic"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=25&letterSpacing=2px&duration=1800&pause=200&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Coffee+-+Code+-+Commit;Bugs+fear+me%2C+features+follow+me.;Printing+less+than+threes+since+forever!" alt="Typing SVG" /></a>
