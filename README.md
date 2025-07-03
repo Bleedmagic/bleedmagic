@@ -98,7 +98,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Bleedmagic&theme=onedark&no-frame=true&no-bg=true&margin-w=5&margin-h=5&row=2&column=4&title=-Issues" alt="trophies"></img>
 </div>
 
-## 🌟 Miscellaneus
+## 🌟 Miscellaneous
 
 <details>
 
