@@ -49,8 +49,8 @@
     <a href="https://dev.mysql.com/doc/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
     </a>
-    <a href="https://www.tensorflow.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
+    <a href="https://pytorch.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" />
     </a>
 </div>
 
